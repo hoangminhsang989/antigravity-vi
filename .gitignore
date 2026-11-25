@@ -1,0 +1,7 @@
+*.log
+*-debug.json
+*.tmp
+*.vi-tmp
+*.bak
+.DS_Store
+Thumbs.db
